@@ -6,7 +6,7 @@ Iniciando na área da programação 👨‍💻
 <div align="center">
   <a href="https://github.com/pedrooguilherme">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=pedrooguilherme&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooguilherme&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooguilherme&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   
 
